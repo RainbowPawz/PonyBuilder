@@ -1,7 +1,7 @@
 Advanced Programming I Project
 # PonyBuilder
 
-Each senior at the University of Montana Computer Science department must finish what are called our capstone course. The first of these is Advanced Programming 1 where we are introduced to the much needed Design Patterns. Our Professor had us develop was she called the Food Storage system, which later could take food “orders”.
+Each senior at the University of Montana Computer Science department must finish what are called our capstone courses. The first of these is Advanced Programming 1 where we are introduced to the much needed Design Patterns. Our Professor had us develop was she called the Food Storage system, which later could take food “orders”.
 
 I developed what I affectionately called the "Pony Builder". 
  
